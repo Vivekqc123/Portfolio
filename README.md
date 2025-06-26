@@ -60,9 +60,5 @@ Edit
 # Install Vercel CLI
 npm install -g vercel
 
-# Login and deploy
-vercel
-Or connect your GitHub repo to Vercel or Netlify directly and deploy with 1 click.
-
 📄 License
 MIT License — feel free to use and modify this portfolio for personal use.
