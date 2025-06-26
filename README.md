@@ -1,6 +1,6 @@
 A clean, modern, and responsive personal developer portfolio built with React, Tailwind CSS, and Framer Motion, showcasing my projects, skills, and resume.
 
-Live Demo 👉  https://vercel.com/vivekguptaair1-8379s-projects/portfolio
+Live Demo 👉 https://portfolio-five-kohl-ikbnup3dub.vercel.app/
 
 🚀 Tech Stack
 React.js – Frontend Framework
