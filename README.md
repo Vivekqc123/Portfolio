@@ -1,6 +1,68 @@
-# Vue 3 + Vite
+A clean, modern, and responsive personal developer portfolio built with React, Tailwind CSS, and Framer Motion, showcasing my projects, skills, and resume.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Live Demo 👉 [Add your deployed link here]
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-# Portfolio
+🚀 Tech Stack
+React.js – Frontend Framework
+
+Tailwind CSS – Utility-first CSS Framework
+
+Framer Motion – Smooth animations
+
+Vite – Lightning-fast build tool
+
+Netlify / Vercel – (Recommended) Deployment Platform
+
+🎯 Features
+✅ Hero section with animated text and CTA
+✅ Responsive Navigation Bar
+✅ Scroll-based animations using Framer Motion
+✅ About section with dynamic content
+✅ Project showcase with smooth UI & animation
+✅ Contact form with working UI (no backend yet)
+✅ Resume download button
+✅ Fully responsive design
+✅ Developer-friendly folder structure
+
+📁 Folder Structure
+perl
+Copy
+Edit
+my-portfolio/
+│
+├── public/
+│   └── resume.pdf
+│
+├── src/
+│   ├── assets/           # Static images like profile.png
+│   ├── components/       # All UI components (Hero, About, Projects, etc.)
+│   ├── App.jsx           # Root component
+│   ├── main.jsx          # React entry
+│   └── index.css         # Tailwind base styles
+│
+├── tailwind.config.js
+├── postcss.config.js
+└── package.json
+
+📦 Installation (Local Setup)
+bash
+Copy
+Edit
+git clone https://github.com/Vivekqc123/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
+
+🚀 Deployment (Vercel Recommended)
+bash
+Copy
+Edit
+# Install Vercel CLI
+npm install -g vercel
+
+# Login and deploy
+vercel
+Or connect your GitHub repo to Vercel or Netlify directly and deploy with 1 click.
+
+📄 License
+MIT License — feel free to use and modify this portfolio for personal use.
